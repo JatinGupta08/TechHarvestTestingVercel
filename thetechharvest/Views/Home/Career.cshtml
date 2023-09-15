@@ -1,0 +1,151 @@
+﻿
+
+
+@{
+    ViewData["Title"] = "Career";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<!-- Banner Start -->
+<section class="slider" style="background-image:url('/assets/images/careerBnr.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <img src="" />
+                    <h1 class="animated fadeInUp">Career</h1>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Banner end -->
+<!-- Career Start -->
+<section class="service-about section">
+    <div class="container">
+        <div class="row align-items-center text-center text-lg-left">
+            <div class="col-lg-6">
+                <h2><b>Careers</b></h2>
+                <br>
+                <h3>Join a Leading Company to shape your future.</h3>
+                <p class="mt-30" style="text-align: justify;">We are always looking for talented and passionate individuals to join our team. At our tech company, we believe in creating a positive and inclusive work environment where our employees can thrive and grow. We offer a range of exciting career opportunities in areas such as web development, mobile development, software engineering, design, and more. We value creativity, innovation, and a commitment to excellence, and we offer our employees the opportunity to work on challenging and rewarding projects. We believe in providing our employees with the support, training, and resources they need to succeed, and we offer competitive compensation and benefits packages. If you're passionate about technology and looking for a challenging and rewarding career, we encourage you to explore our current job openings and apply today!</p>
+            </div>
+            <div class="col-lg-6">
+                <img class="img-fluid" src="/assets/images/careers.jpg" alt="" title="careers">
+
+
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Career end -->
+<div class="container table-responsive table-hover ">
+
+    <table id="careerTable" class="careerTable table">
+        <thead>
+            <tr>
+                <th scope="col">S.No.</th>
+                <th scope="col">Position</th>
+                <th scope="col">Skill Set</th>
+                <th scope="col">Job Id</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr data-toggle="modal" data-target="#mdoalone">
+                <th scope="row">1</th>
+                <td>BackEnd-Developer</td>
+                <td>.NET/ASP.NET/C#</td>
+                <td class="job-id">TTHDND-101</td>
+            </tr>
+            <tr data-toggle="modal" data-target="#mdoaltwo">
+                <th scope="row">2</th>
+                <td>Sitefinity-Developer</td>
+                <td>Sitefinity</td>
+                <td class="job-id">TTHDND-102</td>
+            </tr>
+            <tr data-toggle="modal" data-target="#mdoalthree">
+                <th scope="row">3</th>
+                <td>FrontEnd-Developer</td>
+                <td>HTML5/CSS/JavaScript</td>
+                <td class="job-id">TTHDND-103</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="mdoalone" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Job description</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                Job summary
+            </div>
+            <div class="modal-footer">
+                @Html.ActionLink("Click Here", "CareerDetails", "Home", new { Id = "TTHDND-101" }, null)
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="mdoaltwo" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Job description</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                Job summary
+            </div>
+            <div class="modal-footer">
+                @Html.ActionLink("Click Here", "CareerDetails", "Home", new { Id = "TTHDND-102" }, null)
+              
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="mdoalthree" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Job description</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                Job summary
+            </div>
+            <div class="modal-footer">   
+                 @Html.ActionLink("Apply Now", "CareerDetails", "Home", new { Id = "THDND-103" }, null)
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    console.log("Career PAGE");
+    $('tr').on('click', function() {
+        var row = $(this).closest("tr");
+        var jID = row.find(".job-id").html();
+        $("#jobId").val(jID);
+    });
+</script>
+
+
+

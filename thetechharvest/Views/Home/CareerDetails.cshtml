@@ -1,0 +1,75 @@
+﻿
+
+@{
+    ViewData["Title"] = "CareerDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Banner Start -->
+<section class="slider" style="background-image:url('/wwwroot/bnr1.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <img src="" />
+                    <h1 class="animated fadeInUp">Career Detail</h1>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Banner end -->
+<!-- Forms start -->
+
+<section class="contact-form">
+    <div class="container">
+        <h3>Job Detail :</h3>
+
+        <form class="row" id="contact-form">
+            <div class="col-md-6 col-sm-12">
+
+                <div class="block">
+
+                    <div class="form-group">
+                        <lable>Name </lable>
+                        <input name="user_name" type="text" class="form-control" placeholder="Your Name">
+                    </div>
+                    <div class="form-group">
+                        <lable>Email </lable>
+                        <input name="user_email" type="text" class="form-control" placeholder="Email Address">
+                    </div>
+
+                    <div class="form-group">
+
+                        <input class="form-control" type="file" id="formFile">
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-12">
+                <div class="block">
+                    <div class="form-group">
+                        <lable>Job Id </lable>
+                        <label name="user_name" type="text" class="form-control" placeholder="Job id"> @ViewBag.JID</label>
+                       @* <input name="user_name" type="text" class="form-control" placeholder="Job id">*@
+                    </div>
+                    <div class="form-group">
+                        <lable>Message </lable>
+                        <textarea name="user_message" class="form-control" rows="4" placeholder="Your Message"></textarea>
+                    </div>
+
+                    <button class="btn btn-default" type="submit">Send Message</button>
+                </div>
+            </div>
+            <div class="error" id="error">Sorry Msg dose not sent</div>
+            <div class="success" id="success">Message Sent</div>
+        </form>
+
+    </div>
+</section>
+<!-- Forms end -->
+<script>
+    $(document).ready(function () {
+        console.log("CADE ::", $("#jobId").val());
+    });
+</script>

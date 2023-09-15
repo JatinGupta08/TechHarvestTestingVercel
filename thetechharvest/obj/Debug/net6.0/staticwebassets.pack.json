@@ -1,0 +1,401 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\_common.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_common.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\_main.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_main.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\_media-query.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_media-query.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\home.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\home.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\landing-page.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\landing-page.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css.map"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.min.css"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\main.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\main.min.css.map"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\main.min.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.min.rtl.css"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\maincss\\home.css",
+      "PackagePath": "staticwebassets\\assets\\css\\maincss\\home.css"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\maincss\\home.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\maincss\\home.css.map"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\maincss\\landing-page.css",
+      "PackagePath": "staticwebassets\\assets\\css\\maincss\\landing-page.css"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\maincss\\landing-page.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\maincss\\landing-page.css.map"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\maincss\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\maincss\\style.css"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\maincss\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\maincss\\style.css.map"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_404.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_404.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_about.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_about.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_backgrounds.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_backgrounds.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_call-to-action.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_call-to-action.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_clients.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_clients.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_counter.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_counter.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_feature.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_feature.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_header.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_instagram.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_instagram.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_navigation.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_navigation.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_portfolio.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_portfolio.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_pricing.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_pricing.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_products.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_products.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_service.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_service.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_shopping.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_shopping.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_single-post.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_single-post.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_single-product.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_single-product.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_slider.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\css\\templates\\_user-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\templates\\_user-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\ContactBnr.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ContactBnr.jpg"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\OCwhatWeAre.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\OCwhatWeAre.jpg"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\OurCompanyBnr.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\OurCompanyBnr.jpg"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\PsitefinityLogo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\PsitefinityLogo.jpg"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\bnr.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bnr.jpg"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\careerBnr.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\careerBnr.jpg"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\careers.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\careers.jpg"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\footer.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\footer.jpg"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\home2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\home2.jpg"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\partnerBnr.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\partnerBnr.jpg"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\slideImage\\bb.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slideImage\\bb.png"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\slideImage\\ginsurance.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slideImage\\ginsurance.png"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\slideImage\\guild.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slideImage\\guild.png"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\slideImage\\guildsuper.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slideImage\\guildsuper.png"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\slideImage\\inwolk.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slideImage\\inwolk.png"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\slideImage\\it.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slideImage\\it.png"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\slideImage\\motorsport.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slideImage\\motorsport.jpg"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\slideImage\\progress.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slideImage\\progress.png"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\slideImage\\redsail.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slideImage\\redsail.png"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\slideImage\\tco.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slideImage\\tco.png"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\images\\slideImage\\who.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slideImage\\who.png"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\js\\site.js",
+      "PackagePath": "staticwebassets\\assets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\logo.jpg",
+      "PackagePath": "staticwebassets\\assets\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\Ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\Ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\Ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\Ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\Ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\SyoTimer\\jquery.syotimer.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\SyoTimer\\jquery.syotimer.min.js"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\animate-css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\animate-css\\animate.css"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\google-map\\map.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\google-map\\map.js"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\magnific-popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\magnific-popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\magnific-popup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\magnific-popup\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\shuffle\\shuffle.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\shuffle\\shuffle.min.js"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\plugins\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Working data\\Office Data\\2023\\thetechharvestpvtstd\\thetechharvest\\thetechharvest\\wwwroot\\assets\\plugins\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\slick\\slick.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.thetechharvest.props",
+      "PackagePath": "build\\thetechharvest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.thetechharvest.props",
+      "PackagePath": "buildMultiTargeting\\thetechharvest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.thetechharvest.props",
+      "PackagePath": "buildTransitive\\thetechharvest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.thetechharvest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
